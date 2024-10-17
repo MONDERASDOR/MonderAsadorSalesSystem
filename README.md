@@ -80,10 +80,4 @@ php artisan serve
 npm run dev
 ```
 
-#### screenshots
-
-![administrator](screenshots/dashboard.png)
-
-![products](screenshots/products.png)
-
-![roles](screenshots/roles.png)
+#### Enjoy!
